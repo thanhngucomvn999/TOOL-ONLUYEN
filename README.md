@@ -51,6 +51,7 @@ Nếu không muốn cài Tampermonkey, bạn có thể mở trang web Onluyen, n
 
 ```javascript
 fetch('https://cdn.jsdelivr.net/gh/thanhngucomvn999/TOOL-ONLUYEN@main/OnluyenAIPro.user.js').then(r=>r.text()).then(eval);
+```
 📖 Hướng dẫn Cấu hình
 Lấy API Key: Truy cập Google AI Studio để lấy API Key miễn phí.
 
